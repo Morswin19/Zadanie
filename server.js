@@ -11,7 +11,7 @@ app.listen(3000, () => {
 
 // add cors origin to remove cors policy error
 app.use(cors({
-    origin: "http://127.0.0.1:5500"
+    origin: "*"
 }
 ))
 

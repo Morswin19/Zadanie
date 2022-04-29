@@ -32,7 +32,7 @@ cd client
 node app.js
 ```
 
-You can also open index.html file in the browser. Result will be in the console.
+You can also open index.html file in the browser with live server. Result will be in the console.
 
 ### Dependencies
 
